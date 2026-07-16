@@ -133,7 +133,7 @@ nav a:hover{
     color:black;
 }
 
-.btn..secondary{
+.btn.secondary{
     border:2px solid var(--primary);
     color:var(--primary);
 }
