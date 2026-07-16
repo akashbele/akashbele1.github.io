@@ -58,6 +58,53 @@ nav a:hover{
 }
 
 /* ===============================
+Logo
+   =============================== */
+
+.logo{
+
+display:flex;
+align-items:center;
+gap:12px;
+
+font-size:26px;
+font-weight:700;
+
+color:white;
+
+}
+
+.logo img{
+
+width:48px;
+height:48px;
+
+border-radius:14px;
+
+box-shadow:0 0 25px rgba(56,189,248,.55);
+
+transition:.4s;
+
+}
+
+.logo img:hover{
+
+transform:rotate(8deg) scale(1.08);
+
+}
+
+.logo span{
+
+background:linear-gradient(90deg,#38bdf8,#8b5cf6);
+
+-webkit-background-clip:text;
+
+color:transparent;
+
+}
+
+
+/* ===============================
  Hero
 ================================= */
 
