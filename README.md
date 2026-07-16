@@ -38,7 +38,7 @@ A modern responsive portfolio website built with HTML, CSS and JavaScript.
 
 Your portfolio will be available at:
 
-https://your-github-username.github.io/repository-name/
+https://repository-name/
 
 ## Author
 
