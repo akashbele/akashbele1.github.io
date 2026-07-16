@@ -121,12 +121,11 @@ nav a:hover{
 
 .btn,
 .secondary{
-    background: transparent;
-    border: 2px solid #38bdf8;
-    color: white !important;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding:14px 32px;
+    border-radius:40px;
+    text-decoration:none;
+    transition:.3s;
+    font-weight:600;
 }
 
 .btn{
